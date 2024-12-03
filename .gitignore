@@ -1,0 +1,16 @@
+# Virtual environment
+defense-env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Data files
+data/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Other temporary files
+*.log
+*.csv
